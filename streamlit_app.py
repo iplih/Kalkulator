@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title("🎈 KALKULATOR")
+st.title("KALKULATOR:rocket:")
 
